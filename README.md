@@ -7,7 +7,6 @@ The organization is intentionally **content-first, not file-extension-first**. W
 ## Main files
 
 - [`WORKSHOP_SUMMARY.md`](WORKSHOP_SUMMARY.md): full text-first summary.
-- [`UPLOAD_GUIDE.md`](UPLOAD_GUIDE.md): exact upload destinations for the original Drive materials.
 - [`SOURCE_MAP.md`](SOURCE_MAP.md): source inventory used by the summary.
 - [`lectures/`](lectures/): topic-by-topic teaching notes extracted from the full summary.
 - [`tools-and-resources/`](tools-and-resources/): workshop resource hub grouped by use case.
